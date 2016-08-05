@@ -1,0 +1,1283 @@
+{
+  "1": {
+    "pokedex": 1,
+    "label": "Bulbasaur",
+    "candies": 25,
+    "minCpMultiplier": 1.53,
+    "maxCpMultiplier": 1.58,
+    "avgCpMultiplier": 1.555,
+    "evolves": 2
+  },
+  "2": {
+    "pokedex": 2,
+    "label": "Ivysaur",
+    "candies": 100,
+    "minCpMultiplier": 1.2,
+    "maxCpMultiplier": 1.61,
+    "avgCpMultiplier": 1.405,
+    "evolves": 3
+  },
+  "3": {
+    "pokedex": 3,
+    "label": "Venusaur",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "4": {
+    "pokedex": 4,
+    "label": "Charmander",
+    "candies": 25,
+    "minCpMultiplier": 1.64,
+    "maxCpMultiplier": 1.7,
+    "avgCpMultiplier": 1.67,
+    "evolves": 5
+  },
+  "5": {
+    "pokedex": 5,
+    "label": "Charmeleon",
+    "candies": 100,
+    "minCpMultiplier": 1.71,
+    "maxCpMultiplier": 1.73,
+    "avgCpMultiplier": 1.72,
+    "evolves": 6
+  },
+  "6": {
+    "pokedex": 6,
+    "label": "Charizard",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "7": {
+    "pokedex": 7,
+    "label": "Squirtle",
+    "candies": 25,
+    "minCpMultiplier": 1.63,
+    "maxCpMultiplier": 1.66,
+    "avgCpMultiplier": 1.645,
+    "evolves": 8
+  },
+  "8": {
+    "pokedex": 8,
+    "label": "Wartortle",
+    "candies": 100,
+    "minCpMultiplier": 1.4,
+    "maxCpMultiplier": 1.65,
+    "avgCpMultiplier": 1.525,
+    "evolves": 9
+  },
+  "9": {
+    "pokedex": 9,
+    "label": "Blastoise",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "10": {
+    "pokedex": 10,
+    "label": "Caterpie",
+    "candies": 12,
+    "minCpMultiplier": 1.04,
+    "maxCpMultiplier": 1.08,
+    "avgCpMultiplier": 1.06,
+    "evolves": 11
+  },
+  "11": {
+    "pokedex": 11,
+    "label": "Metapod",
+    "candies": 50,
+    "minCpMultiplier": 3.52,
+    "maxCpMultiplier": 3.79,
+    "avgCpMultiplier": 3.655,
+    "evolves": 12
+  },
+  "12": {
+    "pokedex": 12,
+    "label": "Butterfree",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "13": {
+    "pokedex": 13,
+    "label": "Weedle",
+    "candies": 12,
+    "minCpMultiplier": 1.06,
+    "maxCpMultiplier": 1.1,
+    "avgCpMultiplier": 1.08,
+    "evolves": 14
+  },
+  "14": {
+    "pokedex": 14,
+    "label": "Kakuna",
+    "candies": 50,
+    "minCpMultiplier": 3.3,
+    "maxCpMultiplier": 3.42,
+    "avgCpMultiplier": 3.36,
+    "evolves": 15
+  },
+  "15": {
+    "pokedex": 15,
+    "label": "Beedrill",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "16": {
+    "pokedex": 16,
+    "label": "Pidgey",
+    "candies": 12,
+    "minCpMultiplier": 1.82,
+    "maxCpMultiplier": 1.95,
+    "avgCpMultiplier": 1.885,
+    "_enabled": 0,
+    "evolves": 17
+  },
+  "17": {
+    "pokedex": 17,
+    "label": "Pidgeotto",
+    "candies": 50,
+    "minCpMultiplier": 1.73,
+    "maxCpMultiplier": 1.78,
+    "avgCpMultiplier": 1.755,
+    "evolves": 18
+  },
+  "18": {
+    "pokedex": 18,
+    "label": "Pidgeot",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "19": {
+    "pokedex": 19,
+    "label": "Rattata",
+    "candies": 25,
+    "minCpMultiplier": 2.61,
+    "maxCpMultiplier": 2.73,
+    "avgCpMultiplier": 2.67,
+    "_enabled": 0,
+    "evolves": 20
+  },
+  "20": {
+    "pokedex": 20,
+    "label": "Raticate",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "21": {
+    "pokedex": 21,
+    "label": "Spearow",
+    "candies": 50,
+    "minCpMultiplier": 2.58,
+    "maxCpMultiplier": 2.81,
+    "avgCpMultiplier": 2.695,
+    "evolves": 22
+  },
+  "22": {
+    "pokedex": 22,
+    "label": "Fearow",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "23": {
+    "pokedex": 23,
+    "label": "Ekans",
+    "candies": 50,
+    "minCpMultiplier": 2.2,
+    "maxCpMultiplier": 2.33,
+    "avgCpMultiplier": 2.265,
+    "evolves": 24
+  },
+  "24": {
+    "pokedex": 24,
+    "label": "Arbok",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "25": {
+    "pokedex": 25,
+    "label": "Pikachu",
+    "candies": 50,
+    "minCpMultiplier": 2.33,
+    "maxCpMultiplier": 2.38,
+    "avgCpMultiplier": 2.355,
+    "evolves": 26
+  },
+  "26": {
+    "pokedex": 26,
+    "label": "Raichu",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "27": {
+    "pokedex": 27,
+    "label": "Sandshrew",
+    "candies": 50,
+    "minCpMultiplier": 2.35,
+    "maxCpMultiplier": 2.76,
+    "avgCpMultiplier": 2.555,
+    "evolves": 28
+  },
+  "28": {
+    "pokedex": 28,
+    "label": "Sandslash",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "29": {
+    "pokedex": 29,
+    "label": "Nidoran (F)",
+    "candies": 25,
+    "minCpMultiplier": 1.62,
+    "maxCpMultiplier": 1.66,
+    "avgCpMultiplier": 1.64,
+    "evolves": 30
+  },
+  "30": {
+    "pokedex": 30,
+    "label": "Nidorina",
+    "candies": 100,
+    "minCpMultiplier": 1.8,
+    "maxCpMultiplier": 2.04,
+    "avgCpMultiplier": 1.92,
+    "evolves": 31
+  },
+  "31": {
+    "pokedex": 31,
+    "label": "Nidoqueen",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "32": {
+    "pokedex": 32,
+    "label": "Nidoran (M)",
+    "candies": 25,
+    "minCpMultiplier": 1.65,
+    "maxCpMultiplier": 1.7,
+    "avgCpMultiplier": 1.675,
+    "evolves": 33
+  },
+  "33": {
+    "pokedex": 33,
+    "label": "Nidorino",
+    "candies": 100,
+    "minCpMultiplier": 1.64,
+    "maxCpMultiplier": 1.86,
+    "avgCpMultiplier": 1.75,
+    "evolves": 34
+  },
+  "34": {
+    "pokedex": 34,
+    "label": "Nidoking",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "35": {
+    "pokedex": 35,
+    "label": "Clefairy",
+    "candies": 50,
+    "minCpMultiplier": 2.02,
+    "maxCpMultiplier": 2.2,
+    "avgCpMultiplier": 2.11,
+    "evolves": 36
+  },
+  "36": {
+    "pokedex": 36,
+    "label": "Clefable",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "37": {
+    "pokedex": 37,
+    "label": "Vulpix",
+    "candies": 50,
+    "minCpMultiplier": 2.68,
+    "maxCpMultiplier": 2.74,
+    "avgCpMultiplier": 2.71,
+    "evolves": 38
+  },
+  "38": {
+    "pokedex": 38,
+    "label": "Ninetails",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "39": {
+    "pokedex": 39,
+    "label": "Jigglypuff",
+    "candies": 50,
+    "minCpMultiplier": 2.41,
+    "maxCpMultiplier": 2.47,
+    "avgCpMultiplier": 2.44,
+    "evolves": 40
+  },
+  "40": {
+    "pokedex": 40,
+    "label": "Wigglytuff",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "41": {
+    "pokedex": 41,
+    "label": "Zubat",
+    "candies": 50,
+    "minCpMultiplier": 2.9,
+    "maxCpMultiplier": 3.33,
+    "avgCpMultiplier": 3.115,
+    "evolves": 42,
+    "_enabled": 0
+  },
+  "42": {
+    "pokedex": 42,
+    "label": "Golbat",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "43": {
+    "pokedex": 43,
+    "label": "Oddish",
+    "candies": 25,
+    "minCpMultiplier": 1.48,
+    "maxCpMultiplier": 1.51,
+    "avgCpMultiplier": 1.495,
+    "evolves": 44
+  },
+  "44": {
+    "pokedex": 44,
+    "label": "Gloom",
+    "candies": 100,
+    "minCpMultiplier": 1.48,
+    "maxCpMultiplier": 1.53,
+    "avgCpMultiplier": 1.505,
+    "evolves": 45
+  },
+  "45": {
+    "pokedex": 45,
+    "label": "Vileplume",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "46": {
+    "pokedex": 46,
+    "label": "Paras",
+    "candies": 50,
+    "minCpMultiplier": 1.92,
+    "maxCpMultiplier": 2.02,
+    "avgCpMultiplier": 1.97,
+    "evolves": 47
+  },
+  "47": {
+    "pokedex": 47,
+    "label": "Parasect",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "48": {
+    "pokedex": 48,
+    "label": "Venonat",
+    "candies": 50,
+    "minCpMultiplier": 1.85,
+    "maxCpMultiplier": 1.9,
+    "avgCpMultiplier": 1.875,
+    "evolves": 49
+  },
+  "49": {
+    "pokedex": 49,
+    "label": "Venomoth",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "50": {
+    "pokedex": 50,
+    "label": "Diglett",
+    "candies": 50,
+    "minCpMultiplier": 2.68,
+    "maxCpMultiplier": 2.77,
+    "avgCpMultiplier": 2.725,
+    "evolves": 51
+  },
+  "51": {
+    "pokedex": 51,
+    "label": "Dugtrio",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "52": {
+    "pokedex": 52,
+    "label": "Meowth",
+    "candies": 50,
+    "minCpMultiplier": 1.98,
+    "maxCpMultiplier": 2.24,
+    "avgCpMultiplier": 2.11,
+    "evolves": 53
+  },
+  "53": {
+    "pokedex": 53,
+    "label": "Persian",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "54": {
+    "pokedex": 54,
+    "label": "Psyduck",
+    "candies": 50,
+    "minCpMultiplier": 2.22,
+    "maxCpMultiplier": 2.29,
+    "avgCpMultiplier": 2.255,
+    "evolves": 55
+  },
+  "55": {
+    "pokedex": 55,
+    "label": "Golduck",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "56": {
+    "pokedex": 56,
+    "label": "Mankey",
+    "candies": 50,
+    "minCpMultiplier": 2.15,
+    "maxCpMultiplier": 2.28,
+    "avgCpMultiplier": 2.215,
+    "evolves": 57
+  },
+  "57": {
+    "pokedex": 57,
+    "label": "Primeape",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "58": {
+    "pokedex": 58,
+    "label": "Growlithe",
+    "candies": 50,
+    "minCpMultiplier": 2.25,
+    "maxCpMultiplier": 2.36,
+    "avgCpMultiplier": 2.305,
+    "evolves": 59
+  },
+  "59": {
+    "pokedex": 59,
+    "label": "Arcanine",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "60": {
+    "pokedex": 60,
+    "label": "Poliwag",
+    "candies": 25,
+    "minCpMultiplier": 1.72,
+    "maxCpMultiplier": 1.89,
+    "avgCpMultiplier": 1.805,
+    "evolves": 61
+  },
+  "61": {
+    "pokedex": 61,
+    "label": "Poliwhirl",
+    "candies": 100,
+    "minCpMultiplier": 1.9,
+    "maxCpMultiplier": 1.96,
+    "avgCpMultiplier": 1.93,
+    "evolves": 62
+  },
+  "62": {
+    "pokedex": 62,
+    "label": "Poliwrath",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "63": {
+    "pokedex": 63,
+    "label": "Abra",
+    "candies": 25,
+    "minCpMultiplier": 1.36,
+    "maxCpMultiplier": 2,
+    "avgCpMultiplier": 1.68,
+    "evolves": 64
+  },
+  "64": {
+    "pokedex": 64,
+    "label": "Kadabra",
+    "candies": 100,
+    "minCpMultiplier": 1.41,
+    "maxCpMultiplier": 1.65,
+    "avgCpMultiplier": 1.53,
+    "evolves": 65
+  },
+  "65": {
+    "pokedex": 65,
+    "label": "Alakazam",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "66": {
+    "pokedex": 66,
+    "label": "Machop",
+    "candies": 25,
+    "minCpMultiplier": 1.62,
+    "maxCpMultiplier": 1.67,
+    "avgCpMultiplier": 1.645,
+    "evolves": 67
+  },
+  "67": {
+    "pokedex": 67,
+    "label": "Machoke",
+    "candies": 100,
+    "minCpMultiplier": 1.48,
+    "maxCpMultiplier": 1.7,
+    "avgCpMultiplier": 1.59,
+    "evolves": 68
+  },
+  "68": {
+    "pokedex": 68,
+    "label": "Machamp",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "69": {
+    "pokedex": 69,
+    "label": "Bellsprout",
+    "candies": 25,
+    "minCpMultiplier": 1.54,
+    "maxCpMultiplier": 1.6,
+    "avgCpMultiplier": 1.57,
+    "evolves": 70
+  },
+  "70": {
+    "pokedex": 70,
+    "label": "Weepinbell",
+    "candies": 100,
+    "minCpMultiplier": 1.47,
+    "maxCpMultiplier": 1.52,
+    "avgCpMultiplier": 1.495,
+    "evolves": 71
+  },
+  "71": {
+    "pokedex": 71,
+    "label": "Victreebel",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "72": {
+    "pokedex": 72,
+    "label": "Tentacool",
+    "candies": 50,
+    "minCpMultiplier": 2.47,
+    "maxCpMultiplier": 2.6,
+    "avgCpMultiplier": 2.535,
+    "evolves": 73
+  },
+  "73": {
+    "pokedex": 73,
+    "label": "Tentacruel",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "74": {
+    "pokedex": 74,
+    "label": "Geodude",
+    "candies": 25,
+    "minCpMultiplier": 1.71,
+    "maxCpMultiplier": 1.76,
+    "avgCpMultiplier": 1.735,
+    "evolves": 75
+  },
+  "75": {
+    "pokedex": 75,
+    "label": "Graveler",
+    "candies": 100,
+    "minCpMultiplier": 1.63,
+    "maxCpMultiplier": 1.72,
+    "avgCpMultiplier": 1.675,
+    "evolves": 76
+  },
+  "76": {
+    "pokedex": 76,
+    "label": "Golem",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "77": {
+    "pokedex": 77,
+    "label": "Ponyta",
+    "candies": 50,
+    "minCpMultiplier": 1.47,
+    "maxCpMultiplier": 1.6,
+    "avgCpMultiplier": 1.535,
+    "evolves": 78
+  },
+  "78": {
+    "pokedex": 78,
+    "label": "Rapidash",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "79": {
+    "pokedex": 79,
+    "label": "Slowpoke",
+    "candies": 50,
+    "minCpMultiplier": 2.19,
+    "maxCpMultiplier": 2.21,
+    "avgCpMultiplier": 2.2,
+    "evolves": 80
+  },
+  "80": {
+    "pokedex": 80,
+    "label": "Slowbro",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "81": {
+    "pokedex": 81,
+    "label": "Magnemite",
+    "candies": 50,
+    "minCpMultiplier": 2.16,
+    "maxCpMultiplier": 2.2,
+    "avgCpMultiplier": 2.18,
+    "evolves": 82
+  },
+  "82": {
+    "pokedex": 82,
+    "label": "Magneton",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "83": {
+    "pokedex": 83,
+    "label": "Farfetch'd",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "84": {
+    "pokedex": 84,
+    "label": "Doduo",
+    "candies": 50,
+    "minCpMultiplier": 2.11,
+    "maxCpMultiplier": 2.24,
+    "avgCpMultiplier": 2.175,
+    "evolves": 85
+  },
+  "85": {
+    "pokedex": 85,
+    "label": "Dodrio",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "86": {
+    "pokedex": 86,
+    "label": "Seel",
+    "candies": 50,
+    "minCpMultiplier": 1.96,
+    "maxCpMultiplier": 2.03,
+    "avgCpMultiplier": 1.995,
+    "evolves": 87
+  },
+  "87": {
+    "pokedex": 87,
+    "label": "Dewgong",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "88": {
+    "pokedex": 88,
+    "label": "Grimer",
+    "candies": 50,
+    "minCpMultiplier": 2.03,
+    "maxCpMultiplier": 2.17,
+    "avgCpMultiplier": 2.1,
+    "evolves": 89
+  },
+  "89": {
+    "pokedex": 89,
+    "label": "Muk",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "90": {
+    "pokedex": 90,
+    "label": "Shellder",
+    "candies": 50,
+    "minCpMultiplier": 2.62,
+    "maxCpMultiplier": 2.65,
+    "avgCpMultiplier": 2.635,
+    "evolves": 91
+  },
+  "91": {
+    "pokedex": 91,
+    "label": "Cloyster",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "92": {
+    "pokedex": 92,
+    "label": "Gastly",
+    "candies": 25,
+    "minCpMultiplier": 1.75,
+    "maxCpMultiplier": 1.83,
+    "avgCpMultiplier": 1.79,
+    "evolves": 93
+  },
+  "93": {
+    "pokedex": 93,
+    "label": "Haunter",
+    "candies": 100,
+    "minCpMultiplier": 1.53,
+    "maxCpMultiplier": 1.8,
+    "avgCpMultiplier": 1.665,
+    "evolves": 94
+  },
+  "94": {
+    "pokedex": 94,
+    "label": "Gengar",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "95": {
+    "pokedex": 95,
+    "label": "Onix",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "96": {
+    "pokedex": 96,
+    "label": "Drowsee",
+    "candies": 50,
+    "minCpMultiplier": 2.05,
+    "maxCpMultiplier": 2.11,
+    "avgCpMultiplier": 2.08,
+    "evolves": 97
+  },
+  "97": {
+    "pokedex": 97,
+    "label": "Hypno",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "98": {
+    "pokedex": 98,
+    "label": "Krabby",
+    "candies": 50,
+    "minCpMultiplier": 2.35,
+    "maxCpMultiplier": 2.4,
+    "avgCpMultiplier": 2.375,
+    "evolves": 99
+  },
+  "99": {
+    "pokedex": 99,
+    "label": "Kingler",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "100": {
+    "pokedex": 100,
+    "label": "Voltorb",
+    "candies": 50,
+    "minCpMultiplier": 2.01,
+    "maxCpMultiplier": 2.03,
+    "avgCpMultiplier": 2.02,
+    "evolves": 101
+  },
+  "101": {
+    "pokedex": 101,
+    "label": "Electrode",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "102": {
+    "pokedex": 102,
+    "label": "Exeggcute",
+    "candies": 50,
+    "minCpMultiplier": 2.7,
+    "maxCpMultiplier": 3.18,
+    "avgCpMultiplier": 2.94,
+    "evolves": 103
+  },
+  "103": {
+    "pokedex": 103,
+    "label": "Exeggutor",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "104": {
+    "pokedex": 104,
+    "label": "Cubone",
+    "candies": 50,
+    "minCpMultiplier": 1.65,
+    "maxCpMultiplier": 1.67,
+    "avgCpMultiplier": 1.66,
+    "evolves": 105
+  },
+  "105": {
+    "pokedex": 105,
+    "label": "Marowak",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "106": {
+    "pokedex": 106,
+    "label": "Hitmonlee",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "107": {
+    "pokedex": 107,
+    "label": "Hitmonchan",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "108": {
+    "pokedex": 108,
+    "label": "Lickitung",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "109": {
+    "pokedex": 109,
+    "label": "Koffing",
+    "candies": 50,
+    "minCpMultiplier": 1.95,
+    "maxCpMultiplier": 2.1,
+    "avgCpMultiplier": 2.025,
+    "evolves": 110
+  },
+  "110": {
+    "pokedex": 110,
+    "label": "Weezing",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "111": {
+    "pokedex": 111,
+    "label": "Rhyhorn",
+    "candies": 50,
+    "minCpMultiplier": 1.9,
+    "maxCpMultiplier": 1.91,
+    "avgCpMultiplier": 1.905,
+    "evolves": 112
+  },
+  "112": {
+    "pokedex": 112,
+    "label": "Rhydon",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "113": {
+    "pokedex": 113,
+    "label": "Chansey",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "114": {
+    "pokedex": 114,
+    "label": "Tangela",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "115": {
+    "pokedex": 115,
+    "label": "Kangaskahn",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "116": {
+    "pokedex": 116,
+    "label": "Horsea",
+    "candies": 50,
+    "minCpMultiplier": 2.19,
+    "maxCpMultiplier": 2.23,
+    "avgCpMultiplier": 2.21,
+    "evolves": 117
+  },
+  "117": {
+    "pokedex": 117,
+    "label": "Seadra",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "118": {
+    "pokedex": 118,
+    "label": "Goldeen",
+    "candies": 50,
+    "minCpMultiplier": 2.14,
+    "maxCpMultiplier": 2.24,
+    "avgCpMultiplier": 2.19,
+    "evolves": 119
+  },
+  "119": {
+    "pokedex": 119,
+    "label": "Seaking",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "120": {
+    "pokedex": 120,
+    "label": "Staryu",
+    "candies": 50,
+    "minCpMultiplier": 2.35,
+    "maxCpMultiplier": 2.44,
+    "avgCpMultiplier": 2.395,
+    "evolves": 121
+  },
+  "121": {
+    "pokedex": 121,
+    "label": "Starmie",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "122": {
+    "pokedex": 122,
+    "label": "Mr. Mime",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "123": {
+    "pokedex": 123,
+    "label": "Scyther",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "124": {
+    "pokedex": 124,
+    "label": "Jynx",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "125": {
+    "pokedex": 125,
+    "label": "Electabuzz",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "126": {
+    "pokedex": 126,
+    "label": "Magmar",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "127": {
+    "pokedex": 127,
+    "label": "Pinsir",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "128": {
+    "pokedex": 128,
+    "label": "Tauros",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "129": {
+    "pokedex": 129,
+    "label": "Magikarp",
+    "candies": 400,
+    "minCpMultiplier": 10.1,
+    "maxCpMultiplier": 11.96,
+    "avgCpMultiplier": 11.03,
+    "evolves": 130
+  },
+  "130": {
+    "pokedex": 130,
+    "label": "Gyarados",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "131": {
+    "pokedex": 131,
+    "label": "Lapras",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "132": {
+    "pokedex": 132,
+    "label": "Ditto",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "133": {
+    "pokedex": 133,
+    "label": "Eevee",
+    "candies": 25,
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": "",
+    "evolves": [134, 135, 136]
+  },
+  "134": {
+    "pokedex": 134,
+    "label": "Vaporeon",
+    "candies": "",
+    "minCpMultiplier": 2.62,
+    "maxCpMultiplier": 2.67,
+    "avgCpMultiplier": 2.645
+  },
+  "135": {
+    "pokedex": 135,
+    "label": "Jolteon",
+    "candies": "",
+    "minCpMultiplier": 2.01,
+    "maxCpMultiplier": 2.09,
+    "avgCpMultiplier": 2.05
+  },
+  "136": {
+    "pokedex": 136,
+    "label": "Flareon",
+    "candies": "",
+    "minCpMultiplier": 2.46,
+    "maxCpMultiplier": 2.64,
+    "avgCpMultiplier": 2.55
+  },
+  "137": {
+    "pokedex": 137,
+    "label": "Porygon",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "138": {
+    "pokedex": 138,
+    "label": "Omanyte",
+    "candies": 50,
+    "minCpMultiplier": 1.99,
+    "maxCpMultiplier": 2.12,
+    "avgCpMultiplier": 2.055,
+    "evolves": 139
+  },
+  "139": {
+    "pokedex": 139,
+    "label": "Omastar",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "140": {
+    "pokedex": 140,
+    "label": "Kabuto",
+    "candies": 50,
+    "minCpMultiplier": 1.97,
+    "maxCpMultiplier": 2.37,
+    "avgCpMultiplier": 2.17,
+    "evolves": 141
+  },
+  "141": {
+    "pokedex": 141,
+    "label": "Kabutops",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "142": {
+    "pokedex": 142,
+    "label": "Aerodactyl",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "143": {
+    "pokedex": 143,
+    "label": "Snorlax",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "144": {
+    "pokedex": 144,
+    "label": "Articuno",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "145": {
+    "pokedex": 145,
+    "label": "Zapdos",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "146": {
+    "pokedex": 146,
+    "label": "Moltres",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "147": {
+    "pokedex": 147,
+    "label": "Dratini",
+    "candies": 25,
+    "minCpMultiplier": 1.8,
+    "maxCpMultiplier": 1.85,
+    "avgCpMultiplier": 1.825,
+    "evolves": 148
+  },
+  "148": {
+    "pokedex": 148,
+    "label": "Dragonair",
+    "candies": 100,
+    "minCpMultiplier": 2.03,
+    "maxCpMultiplier": 2.08,
+    "avgCpMultiplier": 2.055,
+    "evolves": 149
+  },
+  "149": {
+    "pokedex": 149,
+    "label": "Dragonite",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "150": {
+    "pokedex": 150,
+    "label": "Mewto",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  },
+  "151": {
+    "pokedex": 151,
+    "label": "Mew",
+    "candies": "",
+    "minCpMultiplier": "",
+    "maxCpMultiplier": "",
+    "avgCpMultiplier": ""
+  }
+}
