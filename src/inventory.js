@@ -1,14 +1,17 @@
 const api = require('pokemon-go-api');
 const credentials = require('./credentials');
 
-module.exports.get = function inventory() {
-  return credentials().then(function({username, password, provider}) {
-    return api.login(username, password, provider)
-      .then(() => api.location.set('address', 'New York').then(api.getPlayerEndpoint))
-      .then(api.getPlayerEndpoint)
-      .then(api.inventory.get);
-  });
+module.exports.get = function() {
+  return credentials().then(getInventory);
 };
+
+
+function getInventory({username, password, provider}) {
+  return api.login(username, password, provider)
+    .then(() => api.location.set('address', 'New York').then(api.getPlayerEndpoint))
+    .then(api.getPlayerEndpoint)
+    .then(api.inventory.get);
+}
 
 module.exports.allPokemonsIDS = function(inventory) {
   return inventory
